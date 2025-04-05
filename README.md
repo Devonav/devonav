@@ -11,4 +11,5 @@
 ![Stats](http://profile-data-ashen.vercel.app/api/cards/stats?username=Devonav&theme=2077)
 ![Productive Time](http://profile-data-ashen.vercel.app/api/cards/productive-time?username=Devonav&theme=2077&utcOffset=8)
 
+![Stats](http://profile-data-ashen.vercel.app/api/cards/stats?username=Devonav&theme=2077&t=123456)
 
