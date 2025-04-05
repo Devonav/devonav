@@ -1,6 +1,4 @@
 
-<h3 align="center">🧠 Quantum Computing Vibes</h3>
-
 <p align="center">
   <img src="./download.gif" alt="Quantum Computing Animation" />
 </p>
