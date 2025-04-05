@@ -4,5 +4,6 @@
 ![Stats](http://profile-data-ashen.vercel.app/api/cards/stats?username=Devonav&theme=2077)
 ![Productive Time](http://profile-data-ashen.vercel.app/api/cards/productive-time?username=Devonav&theme=2077&utcOffset=8)
 
-![Quantum Computing Animation](./download.gif)
-
+<p align="center">
+  <img src="./download.gif" alt="Quantum Computing Animation" />
+</p>
