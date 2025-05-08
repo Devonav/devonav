@@ -5,10 +5,7 @@
 
 
 
-![Profile Details](http://profile-data-ashen.vercel.app/api/cards/profile-details?username=Devonav&theme=2077)
-![Repos per Language](http://profile-data-ashen.vercel.app/api/cards/repos-per-language?username=Devonav&theme=2077)
-![Most Commit Language](http://profile-data-ashen.vercel.app/api/cards/most-commit-language?username=Devonav&theme=2077)
-![Stats](http://profile-data-ashen.vercel.app/api/cards/stats?username=Devonav&theme=2077&t=123456)
-![Productive Time](http://profile-data-ashen.vercel.app/api/cards/productive-time?username=Devonav&theme=2077&utcOffset=8)
 
-
+[![](https://raw.githubusercontent.com/Devonav/devonav/main/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Devonav/devonav/main/profile-summary-card-output/2077/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Devonav/devonav/main/profile-summary-card-output/2077/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Devonav/devonav/main/profile-summary-card-output/2077/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Devonav/devonav/main/profile-summary-card-output/2077/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
