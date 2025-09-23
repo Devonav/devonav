@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./download.gif" alt="Quantum Computing Animation" />
+  <img src="./deeplearning.gif" alt="Quantum Computing Animation" />
 </p>
 
 <p align="center">
